@@ -82,3 +82,6 @@
 | PR 오른쪽 Development 칸에 이슈가 안 보임 | `Closes #번호` 를 댓글에 썼거나 번호가 틀림 → 머지 **전에** PR 설명 오른쪽 위 `...` → **Edit** 로 설명을 고쳐 저장. 이슈는 손으로 닫지 않음 ([P4](problems/P4_issue.md) 10번) |
 | GitHub 화면이 갑자기 VS Code 처럼 바뀜(주소가 `github.dev` 또는 `vscode.dev`) | 글 칸을 클릭하지 않은 채 `.` 키를 누름(GitHub 의 단축키) → 브라우저 뒤로 가기. 로그인 허용 창이 뜨면 **취소** |
 | 커밋했더니 편집기가 열림 | `-m` 없는 commit, 머지는 원래 열립니다. VS Code 면 `Ctrl+S` 뒤 탭 닫기. Vim 이면 `Esc` → `:wq` Enter |
+
+
+erwriuwroweueurio
